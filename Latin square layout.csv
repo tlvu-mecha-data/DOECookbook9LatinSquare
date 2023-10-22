@@ -2,13 +2,13 @@
 1,101,C,Car1,Driver1,24
 2,201,A,Car2,Driver1,16
 3,301,D,Car3,Driver1,14
-4,401,B,Car4,Driver1,20
+4,401,B,Car4,Driver1,29
 5,102,D,Car1,Driver2,12
 6,202,B,Car2,Driver2,26
 7,302,A,Car3,Driver2,13
 8,402,C,Car4,Driver2,27
 9,103,A,Car1,Driver3,15
-10,203,C,Car2,Driver3,29
+10,203,C,Car2,Driver3,28
 11,303,B,Car3,Driver3,23
 12,403,D,Car4,Driver3,16
 13,104,B,Car1,Driver4,24
